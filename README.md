@@ -15,7 +15,7 @@ Este repositório contém o projeto final da disciplina de **Inteligência Artif
 ---
 
 ## 📝 Descrição do Problema
-O objetivo deste projeto é construir um sistema inteligente capaz de realizar **Aprendizagem Indutiva Pura**. O sistema deve encontrar uma hipótese que se ajuste a um conjunto de exemplos de treinamento (descrições e classificações) e generalize bem para novos dados126.
+O objetivo deste projeto é construir um sistema inteligente capaz de realizar **Aprendizagem Indutiva Pura**. O sistema deve encontrar uma hipótese que se ajuste a um conjunto de exemplos de treinamento (descrições e classificações) e generalize bem para novos dados.
 
 Utilizamos o algoritmo de **Eliminação de Candidatos**, que refina a busca mantendo o conjunto de todas as hipóteses consistentes com os exemplos observados através do **Espaço de Versão**.
 
